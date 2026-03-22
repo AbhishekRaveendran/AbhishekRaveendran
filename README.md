@@ -1,32 +1,26 @@
-# Hey, I'm Abhi 👋
+Hey, I'm Abhishek 👋
 
-I'm a mechanical engineer turned AI engineer who is passionate about building real-world AI systems. I enjoy turning raw data into useful insights, training intelligent models, and deploying complete solutions with clean, maintainable code.
+A Data Analyst with a strong foundation in Python, SQL, Tableau, and Power BI - certified in Full Stack Data Science & AI from E&ICT IIT Guwahati.
 
-### 🚀 Projects I’ve Worked On
-- 🎥 **YouTube Channel Potential Predictor** – AI model to evaluate and guide YouTube creators (in progress)
-- 🏭 **Tata Steel | Machine Failure Prediction** – Predictive ML model for steel plant machinery  
-- 🚗 **Predictive Maintenance for Vehicles** – An AI model to estimate upcoming part failures based on usage  
-- 🏨 **OYO Booking Analysis | Power BI Dashboard** – Multi-page interactive dashboard for business insights  
-- 🎬 **JustWatch | Movie Data Management** – SQL & Python pipeline to analyze streaming platform data  
+I build end-to-end analytics solutions: from raw data cleaning and EDA to predictive models and interactive dashboards that drive real business decisions.
 
-### 🧰 Tools, Tech & Platforms
-- **Languages:** Python, SQL (MySQL, PostgreSQL)  
-- **ML / DL:** scikit-learn, TensorFlow, Keras, XGBoost, RandomForest
-- **Data Tools:** Pandas, NumPy, Matplotlib, Seaborn, Power BI
-- **Deployment / MLOps:** Git, MLflow, Flask  
-- **IDE / Workflow:**  VS Code, PyCharm, Google Colab, Jupyter  
-- **Cloud / Infra:**  GitHub Actions (beginner)
+🚀 Projects
+🏭 Tata Steel | Machine Failure Prediction - XGBoost pipeline on 136K sensor records, 15% precision improvement, 25% downtime reduction
+🚗 Vehicle Sensor Data | Predictive Maintenance & RUL Estimation - Dual-model system on 100K+ records, 85%+ precision
+📊 HR Analytics Dashboard | Tableau - 3-section dashboard covering headcount, demographics, and income analysis
+📈 Sales & Customer Performance | Tableau - Two interconnected dashboards with YoY KPIs and full self-serve filtering
+💳 Fraud Detection | ML Model - Classification model on 6.3M financial transaction records
 
-### 🎯 What I'm Focused On Now
-- Building end-to-end ML/AI solutions that can scale and deploy in real-world environments.
-- Improving my AI engineering and MLOps skills for production-grade systems.  
-- Learning continuously and collaborating on open-source or freelance AI/data projects.
+🧰 Tech Stack
+Languages: Python, SQL
+ML & AI: Scikit-learn, XGBoost, TensorFlow, Keras, MLflow
+Data & Visualisation: Pandas, NumPy, Matplotlib, Seaborn, Tableau, Power BI (DAX)
+Databases: MySQL, PostgreSQL
+Tools: Git, GitHub, FastAPI, Jupyter, VS Code, Google Colab
 
-### 📫 Let’s Connect
-- **LinkedIn:** https://www.linkedin.com/in/abhishek-raveendran-c-t
-- **Email:** abhshk0717@gmail.com 
-- **Portfolio:** coming soon...
+📫 Let's Connect
+LinkedIn: https://www.linkedin.com/in/abhishek-raveendran-c-t
+Email: abhshk0717@gmail.com
+Tableau Public: https://public.tableau.com/app/profile/abhishek.raveendran.c.t
 
----
-
-> “I build intelligent systems by combining curiosity, code, and real-world context. Let’s connect.”
+"I turn messy datasets into clear decisions."
