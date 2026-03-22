@@ -20,6 +20,7 @@ Tools: Git, GitHub, FastAPI, Jupyter, VS Code, Google Colab
 
 📫 Let's Connect
 LinkedIn: https://www.linkedin.com/in/abhishek-raveendran-c-t
+
 Email: abhshk0717@gmail.com
 Tableau Public: https://public.tableau.com/app/profile/abhishek.raveendran.c.t
 
